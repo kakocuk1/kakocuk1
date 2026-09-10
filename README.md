@@ -2,7 +2,7 @@
 
 Backend Developer (Go)
 
-After 8+ years working as an engineer on large industrial projects, I transitioned into backend development. While automating engineering workflows with Python, Excel, and VBA, I discovered my passion for software engineering and decided to focus on backend development.
+After 9+ years working as an engineer on large industrial projects, I transitioned into backend development. While automating engineering workflows with Python, Excel, and VBA, I discovered my passion for software engineering and decided to focus on backend development.
 
 ## Tech Stack
 
