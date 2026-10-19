@@ -43,7 +43,7 @@ Fault-tolerant backend service using Kafka.
 
 ## Education
 
-🎓 Go Developer — Yandex Practicum (2026)
+🎓 Go Developer — Yandex Practicum 
 
 ## Languages
 
